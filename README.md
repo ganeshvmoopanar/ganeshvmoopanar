@@ -1,7 +1,6 @@
 👋 Hi, I’m Ganesh V M
-👀 I’m interested in Cloud Technologies, DevOps and Web Development
-💻 I'm a AWS Certified Cloud Practitioner
-🌱 Dockers/Kubernates/Ansible/Jenkins/Git
+💻 I'm a Cisco Certified Network Associate and AWS Certified Cloud Practitioner
+🌱 Ansible/Dockers/Kubernates/Jenkins/Git
 📫 How to reach me gmoopanar@hawk.iit.edu
 
 <!---
